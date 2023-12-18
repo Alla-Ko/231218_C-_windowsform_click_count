@@ -1,0 +1,12 @@
+C:\Alla\C#_proj\WindowsFormsApp_click_count\bin\Debug\WindowsFormsApp_click_count.exe.config
+C:\Alla\C#_proj\WindowsFormsApp_click_count\bin\Debug\WindowsFormsApp_click_count.exe
+C:\Alla\C#_proj\WindowsFormsApp_click_count\bin\Debug\WindowsFormsApp_click_count.pdb
+C:\Alla\C#_proj\WindowsFormsApp_click_count\obj\Debug\WindowsFormsApp_click_count.csproj.AssemblyReference.cache
+C:\Alla\C#_proj\WindowsFormsApp_click_count\obj\Debug\WindowsFormsApp_click_count.csproj.SuggestedBindingRedirects.cache
+C:\Alla\C#_proj\WindowsFormsApp_click_count\obj\Debug\WindowsFormsApp_click_count.Form1.resources
+C:\Alla\C#_proj\WindowsFormsApp_click_count\obj\Debug\WindowsFormsApp_click_count.Properties.Resources.resources
+C:\Alla\C#_proj\WindowsFormsApp_click_count\obj\Debug\WindowsFormsApp_click_count.Resource1.resources
+C:\Alla\C#_proj\WindowsFormsApp_click_count\obj\Debug\WindowsFormsApp_click_count.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WindowsFormsApp_click_count\obj\Debug\WindowsFormsApp_click_count.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WindowsFormsApp_click_count\obj\Debug\WindowsFormsApp_click_count.exe
+C:\Alla\C#_proj\WindowsFormsApp_click_count\obj\Debug\WindowsFormsApp_click_count.pdb
